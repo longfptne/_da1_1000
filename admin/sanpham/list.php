@@ -63,7 +63,7 @@
                                 <td class="td_sp">' . number_format($price) . '</td>
                                 <td class="td_sp">' . $hinh . '</td>
                                 <td class="td_sp">' . $mota . '</td>
-                                <td class="td_sp">' . $date . '</td>
+                             
                                 <td class="td_sp">' . $iddm . '</td>
                                 <td class="td_sp"> 
                                   <a class="url-edit" href="'. $suasp.'">
